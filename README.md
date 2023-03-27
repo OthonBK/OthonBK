@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7325B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Othon+Juliano+Rodrigues+Meneses;I'm+25+years+old;I+from+Brasil,+SP;I+study+systems+for+internet+at+Unicesumar;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADDDF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Othon+Juliano+Rodrigues+Meneses;I'm+25+years+old;I+from+Brasil,+SP;I+study+systems+for+internet+at+Unicesumar;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OthonBK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
